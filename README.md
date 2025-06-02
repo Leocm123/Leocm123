@@ -36,9 +36,8 @@
 ---
 
 ### 🌐 Contato
-<p>
-  📫 Você pode falar comigo pelo [LinkedIn](https://www.linkedin.com/in/leonardo-camilotti-moreno-a59064276/) ou pelo e-mail: <strong>leonardocamilottimoreno@gmail.com</strong>  
-</p>
+
+📫 Você pode falar comigo pelo [LinkedIn](https://www.linkedin.com/in/leonardo-camilotti-moreno-a59064276/) ou pelo e-mail: **leonardocamilottimoreno@gmail.com**
 
 ---
 
