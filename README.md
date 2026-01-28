@@ -2,7 +2,7 @@
 
 <p align="center">
   🧑‍💻 Estudante de Engenharia de Software na <strong>UniCesumar</strong> (Maringá - PR)<br>
-  🎓 Atualmente no <strong>3º de 8 semestres</strong><br>
+  🎓 Atualmente no <strong>5º de 8 semestres</strong><br>
   🧠 Apaixonado por tecnologia, programação e aprendizado contínuo<br>
   🌱 Sempre estudando e buscando evoluir — inclusive em inglês 🇺🇸
 </p>
