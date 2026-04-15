@@ -1,6 +1,6 @@
 # Hi, I'm Leonardo Camilotti 👋
 
-**Clojure Developer** at [BuzzLabs](https://github.com/Buzzlabs) · Software Engineering Student (5/8) — UniCesumar
+**Clojure Developer** at [BuzzLabs](https://github.com/Buzzlabs) · Software Engineering Student (5/8) - UniCesumar
 
 ---
 
