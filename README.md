@@ -1,44 +1,48 @@
-<h1 align="center">👋 Olá! Eu sou o Leo</h1>
+# Hi, I'm Leonardo Camilotti 👋
 
-<p align="center">
-  🧑‍💻 Estudante de Engenharia de Software na <strong>UniCesumar</strong> (Maringá - PR)<br>
-  🎓 Atualmente no <strong>5º de 8 semestres</strong><br>
-  🧠 Apaixonado por tecnologia, programação e aprendizado contínuo<br>
-  🌱 Sempre estudando e buscando evoluir — inclusive em inglês 🇺🇸
-</p>
+**Clojure Developer** at [BuzzLabs](https://github.com/Buzzlabs) · Software Engineering Student (5/8) — UniCesumar
 
 ---
 
-### 🚀 Tecnologias que uso e estudo
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,c,cpp,clojure,docker,mysql" />
-  </a>
-</p>
+### About
+
+I'm a software developer currently working on **Conta Aberta**, a personal finance management platform with Open Finance integration via Pluggy and PIX support.
+
+My day-to-day involves Clojure, Datomic, hexagonal architecture, and Kubernetes, a stack that keeps me thinking carefully about system design and code quality.
+
+Alongside professional work, I'm in my 5th semester of Software Engineering at UniCesumar, bridging academic foundations with real-world production experience.
 
 ---
 
-### 📘 Sobre mim
-- 👨‍🔬 Atualmente concursado na **Vigilância Ambiental de Nova Esperança - PR**
-- 💻 Em transição para a área de **tecnologia e desenvolvimento de software**
-- 📚 Estudando inglês na **Wizard**, finalizando o livro *Teens 8*
-- 🤝 Aberto a colaborar com projetos, especialmente para ganhar experiência prática!
-- 🧩 Interesses incluem: desenvolvimento web, automação, games e ciência de dados
+### Tech Stack
+
+**Primary**
+
+![Clojure](https://skillicons.dev/icons?i=clojure)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+**Also work with**
+
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Vue](https://skillicons.dev/icons?i=vue)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leocm123&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leocm123&layout=compact&theme=tokyonight" />
-</div>
+### GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leocm123&show_icons=true&theme=tokyonight)](https://github.com/Leocm123)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leocm123&layout=compact&theme=tokyonight)](https://github.com/Leocm123)
 
 ---
 
-### 🌐 Contato
+### Contact
 
-📫 Você pode falar comigo pelo [LinkedIn](https://www.linkedin.com/in/leonardo-camilotti-moreno-a59064276/) ou pelo e-mail: **leonardocamilottimoreno@gmail.com**
-
----
-
-⭐️ Obrigado por visitar meu perfil!
+📧 [leonardocamilottimoreno@gmail.com](mailto:leonardocamilottimoreno@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/leonardo-camilotti-moreno-a59064276/)
