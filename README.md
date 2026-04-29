@@ -38,7 +38,7 @@ Alongside professional work, I'm in my 5th semester of Software Engineering at U
 ### GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats-five-bice-68.vercel.app/api?username=Leocm123&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/Leocm123)
-[![Top Langs](https://github-readme-stats-five-bice-68.vercel.app/api/top-langs/?username=Leocm123&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/Leocm123)
+[![Top Langs](https://github-readme-stats-five-bice-68.vercel.app/api/top-langs/?username=Leocm123&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/Leocm123)
 
 ---
 
