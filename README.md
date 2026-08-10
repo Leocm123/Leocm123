@@ -10,7 +10,7 @@ I'm a software developer currently working on **Conta Aberta**, a personal finan
 
 My day-to-day involves Clojure, Datomic, hexagonal architecture, and Kubernetes, a stack that keeps me thinking carefully about system design and code quality.
 
-Alongside professional work, I'm in my 5th semester of Software Engineering at UniCesumar, bridging academic foundations with real-world production experience.
+Alongside professional work, I'm in my 6th semester of Software Engineering at UniCesumar, bridging academic foundations with real-world production experience.
 
 ---
 
@@ -32,6 +32,7 @@ Alongside professional work, I'm in my 5th semester of Software Engineering at U
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Vue](https://skillicons.dev/icons?i=vue)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
 ---
 
