@@ -1,14 +1,14 @@
 # Hi, I'm Leonardo Camilotti 👋
 
-**Clojure Developer** at [BuzzLabs](https://github.com/Buzzlabs) · Software Engineering Student (5/8) - UniCesumar
+**Clojure Developer** at [BuzzLabs](https://github.com/Buzzlabs) · Software Engineering Student (6/8) - UniCesumar
 
 ---
 
 ### About
 
-I'm a software developer currently working on **Conta Aberta**, a personal finance management platform with Open Finance integration via Pluggy and PIX support.
+I'm a software developer working on **Conta Aberta** and **Hummingbird**, two production SaaS platforms built with Clojure, ClojureScript and Re-frame.
 
-My day-to-day involves Clojure, Datomic, hexagonal architecture, and Kubernetes, a stack that keeps me thinking carefully about system design and code quality.
+My day-to-day spans the full stack: backend APIs with Datomic and hexagonal architecture, rich frontend SPAs, automated testing with Playwright, and CI/CD with GitHub Actions. I care a lot about code quality, security, and thoughtful system design.
 
 Alongside professional work, I'm in my 6th semester of Software Engineering at UniCesumar, bridging academic foundations with real-world production experience.
 
@@ -20,17 +20,14 @@ Alongside professional work, I'm in my 6th semester of Software Engineering at U
 
 ![Clojure](https://skillicons.dev/icons?i=clojure)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 
 **Also work with**
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![Vue](https://skillicons.dev/icons?i=vue)
+![Python](https://skillicons.dev/icons?i=python)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 
